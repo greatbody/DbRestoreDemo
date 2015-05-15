@@ -1,0 +1,7 @@
+E:\GitCode\GitHub\DbBackup\DbBackup\obj\x86\Debug\DbBackup.Form1.resources
+E:\GitCode\GitHub\DbBackup\DbBackup\obj\x86\Debug\DbBackup.Properties.Resources.resources
+E:\GitCode\GitHub\DbBackup\DbBackup\obj\x86\Debug\DbBackup.csproj.GenerateResource.Cache
+E:\GitCode\GitHub\DbBackup\DbBackup\bin\Debug\DbBackup.exe
+E:\GitCode\GitHub\DbBackup\DbBackup\bin\Debug\DbBackup.pdb
+E:\GitCode\GitHub\DbBackup\DbBackup\obj\x86\Debug\DbBackup.exe
+E:\GitCode\GitHub\DbBackup\DbBackup\obj\x86\Debug\DbBackup.pdb
